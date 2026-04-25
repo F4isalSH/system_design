@@ -5,14 +5,14 @@
   - Convert url to a shorter unified version (ThisIsALongUrlPleaseShortenMe.com => domain.com/smallId)
   - Redirect user to the short url version
 
-- ## Non Functional
+-  Non Functional
+ 
+   - Minimize latency for redirection
+   - 10K RPS
+   -  5B Urls lifetime
+   - 100M DAU
 
-  - Minimize latency for redirection
-  - 10K RPS
-  - 5B Urls lifetime
-  - 100M DAU
-
-- ## API & DB
+- API & DB
 
   - DB
 
@@ -30,8 +30,12 @@
     - Query param: {id}
 
 - ## High level design
+<img width="2442" height="722" alt="image" src="https://github.com/user-attachments/assets/8a8d4643-40da-426a-8f98-1665a1c38e02" />
 
-<PICTURE>
+<img width="2302" height="1054" alt="image" src="https://github.com/user-attachments/assets/4a05bbe6-e66e-46b5-8269-b37a85264218" />
+
+<img width="2062" height="1190" alt="image" src="https://github.com/user-attachments/assets/3f0ae58f-e1bc-4190-bd2b-e2c48730877e" />
+
 
 - ## Deep dive
 
