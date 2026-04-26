@@ -4,4 +4,4 @@ A space for exploring system design through hands-on projects. Each subdirectory
 
 ## Projects
 
-- [`url_shortner`](./url_shortner) — URL shortening service
+- [`url_shortner`](./url_shortner) — URL shortening service (Work in progress)
